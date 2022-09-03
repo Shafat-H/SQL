@@ -37,7 +37,6 @@
 - SQL can set permissions on tables, procedures, and views
 
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
 `Serial No: 02`
 
 
@@ -92,7 +91,7 @@
 ###### SQL Mathematical Functions 
 - CEILING(), FLOOR(), ROUND(), RAND()
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
+
 `Serial No: 03`
 
 
@@ -206,7 +205,6 @@
 - Script a table in SQL Server
 
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
 `Serial No: 04`
 
 
@@ -234,7 +232,6 @@ Order By ID DESC
 ###### Basic example of SQL
 ![SQL_CHEATSHEET](https://user-images.githubusercontent.com/110928130/184686403-0c740700-51ab-430b-9047-cb1755dc1436.jpg)
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
 `Serial No: 05`
 
 
@@ -261,7 +258,6 @@ Order By ID DESC
 ###### Join over 16 million developers in solving code challenges on (Best Practice Site for SQL)
 - https://www.hackerrank.com/domains/sql
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
 `Serial No: 06`
 
 
@@ -292,7 +288,6 @@ Before doing anything else, we’ll take one quick look at the model we’re usi
 ![image](https://user-images.githubusercontent.com/110928130/186830901-e4fb648c-045f-461d-bde7-c52f19895f9d.png)
 
 
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
 `Serial No: 07`
 
 # কী ফিল্ড (Key) – প্রাইমারি কী, কম্পোজিট প্রাইমারি কী, ফরেন কী (Primary Key and Foreign Key and Composite Key)
