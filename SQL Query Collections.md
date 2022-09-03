@@ -5,8 +5,7 @@ Select * from tblProduct
 
 
 ---------------------------------------------------------------------------------------------------------------------
-![#f03cd15](https://via.placeholder.com/15/f03c15/000000?text=+)
-`Topic No: 01`
+# Topic No: 01
 
 
 # How to Insert Results of Stored Procedure into a Temporary Table
